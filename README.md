@@ -7,7 +7,7 @@
 
  ## ⭐ Quick overviewm
  Hi there 👋 my name is Salsabeel
- - FallStack 
+ - FrontEnd 
  - To communicate : msalsabil32@gmail.com
 
 ## GitHub stats

@@ -7,6 +7,8 @@
 
  ## ⭐ Quick overviewm
  Hi there 👋 my name is Salsabeel
+ - power bi
+ - Data analysis
  - FrontEnd 
  - To communicate : msalsabil32@gmail.com
 
